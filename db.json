@@ -1,0 +1,112 @@
+{
+  "recipes": [
+    {
+      "id": "0",
+      "title": "Kung Bao Chicken",
+      "type": "lunch",
+      "ingredients": [
+        "Boneless skinless chicken breast",
+        "Soy sauce",
+        "Vinegar",
+        "Cornstarch",
+        "Granulated sugar",
+        "Toasted sesame oil",
+        "Red & green bell peppers",
+        "Green onions",
+        "Cashews",
+        "Dried red chili peppers",
+        "Fresh garlic & ginger"
+      ],
+      "steps": [
+        "Make the Kung Pao sauce: mix the soy sauce, vinegar and sugar in a bowl. (yeah, it’s that simple.)",
+        "Prep the chicken! Cut the boneless, skinless chicken breast into uniform strips. This is a little easier to do if your chicken is slightly frozen. Then, toss it in a little soy sauce and cornstarch to coat.",
+        "Cook the chicken until crispy! Working in batches so as not to overcrowd the pan, stir-fry the chicken pieces in sesame oil until they're cooked through and gorgeously crispy.",
+        "Stir-fry! Stir-fry the bell peppers until they're a little soft. Then add the scallions, cashews, ginger, garlic, and dried chili peppers. Stir fry all of that for a minute or two, and then stir in the Kung Pao sauce and cooked chicken.",
+        "Simmer. Let all of the flavors meld over the heat for a few more minutes. The Kung Pao sauce will thicken slightly and really coat the veggies and chicken, which is what you want.",
+        "Serve! We love to serve this over steaming bowls of white or brown rice."
+      ],
+      "picture": "https://assets.epicurious.com/photos/54af3ad2c4a891cc44ccbcb8/4:3/w_987,h_740,c_limit/51179600_kung-pao-chicken_1x1.jpg"
+    },
+    {
+      "id": "1",
+      "title": "Szechuan Fish",
+      "type": "lunch",
+      "ingredients": [
+        "fresh fish",
+        "pickled mustard green",
+        "picked peppers",
+        " whole Sichuan peppercorn seeds",
+        "dried pepper flakes",
+        "green onions",
+        "root ginger",
+        "garlic cloves",
+        "water",
+        "salt",
+        "egg whites",
+        "pepper powder",
+        "soy sauce",
+        "cooking oil",
+        "starch"
+      ],
+      "steps": [
+        "Wash the fish carefully and separate the bones and fish fillet. Then slice the fillet into really thin slices and cut the bones into large sections. Separate the fish pieces and the bones.",
+        "Add salt in fish meat and bones. Mix for a while until the meat becomes sticky. Then wash the fish slices until they become almost transparent. Transfer out and drain. This step helps to remove any odd taste and give the meat a lovely texture.",
+        "Marinade the fish bones and fish fillet slices with salt, egg white, cornstarch and white pepper powder.",
+        "Add a small amount of oil in wok and fry mustard green until dried and place dried chili pepper and Sichuan peppercorn. Continue heating until aromatic. Pour extra oil and fry garlic, ginger and green onion white section until aromatic too.",
+        "Clean the wok and re-heat some oil, add the fish head and bones and fry until slightly browned. Place the fried mustard green in. Pour in 800ml hot water. Let the broth simmer for 15 minutes.",
+        "Add fish slices in and cook for 30 seconds until they turn white. Transfer out immediately",
+        "Top with chopped garlic, Sichuan peppercorn and chopped green onions. Pour around 2 tablespoons of hot oil.  Serve hot! "
+      ],
+      "picture": "https://www.chinasichuanfood.com/wp-content/uploads/2014/12/suan-cai-yu-23-2.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Sachima",
+      "type": "desserts",
+      "ingredients": [
+        "flour",
+        "eggs",
+        "salt",
+        "baking soda",
+        "white sugar",
+        "maltose",
+        "water",
+        "cornstarch"
+      ],
+      "steps": [
+        "Mix baking powder, salt with all purpose flour and then add the egg liquid in. Mix everything to a ball and continue kneading until smooth (you can rest for 15 minutes and then continue with the kneading). The dough can be quite sticky at the very beginning but further with the kneading process, it presents a smooth texture. Cover the dough and rest for at least 30 minutes.",
+        "Spread some dusting flour (starch flour the best ) on your operating board, and roll the dough into a large wrapper (around 30cm long). Cut the large pieces into several parts and then further cut the flour piece into thin strips.",
+        "Heat oil until really hot and test with one strip. Drop one strip in and see whether it can float immediately. If the strip lay down in the bottom of your pot, continue heating.",
+        "Fry the strips by small batches until slightly brown. Do not over fry the flour strips, otherwise cannot form soft texture. Shake off extra oil and then transfer all of the strips in a large pot. The frying process usually last for 12 to 15 seconds.",
+        "In a deep sauce pot, place sugar, maltose, salt and water. Heat over medium fire until the syrup reaches 115 degree C.",
+        "Use two noodle strips and catch some syrup, meet the two together and then pull away gently. A thin, long and soft thread should be formed.",
+        "Pour the syrup to the flour by batches (for better mixing). Mix well and try to make every strip coated with syrup.",
+        "Transfer them to a lined mold. Slightly flatten to form better shapes. Wait until completely cooled down, cut and serve."
+      ],
+      "picture": "https://www.chinasichuanfood.com/wp-content/uploads/2019/10/saqima-34.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": "0",
+      "name": "Alex",
+      "body": "It's kinda spicy but taste good!",
+      "time": "Sat, 13 Jun 2020 18:30:00 GMT",
+      "recipeId": "0"
+    },
+    {
+      "id": "1",
+      "name": "Lucy",
+      "body": "Best Kong Bao chicken expeced!!!",
+      "time": "Sat, 17 Jun 2020 18:30:00 GMT",
+      "recipeId": "0"
+    },
+    {
+      "id": "2",
+      "name": "Lucy",
+      "body": "Best Kong Bao chicken expeced!!!",
+      "time": "Sat, 17 Jun 2020 18:30:00 GMT",
+      "recipeId": "1"
+    }
+  ]
+}
